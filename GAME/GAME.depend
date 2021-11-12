@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1548766679 source:c:\users\huynhspm\desktop\game\console.cpp
+	<stdio.h>
+	<conio.h>
+	"console.h"
+
+1545807853 c:\users\huynhspm\desktop\game\console.h
+	<windows.h>
+
+1550553603 source:c:\users\huynhspm\desktop\game\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	"console.hpp"
+	"public.hpp"
+	"prepare.hpp"
+	"assign.hpp"
+	"control.hpp"
+	"solve.hpp"
+	"table.hpp"
+	"constant.hpp"
+	"show.hpp"
+	"endgame.hpp"
+
+1548749565 source:c:\users\huynhspm\desktop\game\solve.cpp
+	<bits/stdc++.h>
+	"public.h"
+	"console.h"
+	"solve.h"
+	"assign.h"
+	"levelmonster.h"
+
+1548767135 c:\users\huynhspm\desktop\game\public.h
+
+1545886915 c:\users\huynhspm\desktop\game\prepare.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+	"console.h"
+	"public.h"
+
+1546436116 source:c:\users\huynhspm\desktop\game\prepare.cpp
+	"public.h"
+	"prepare.h"
+
+1548749563 source:c:\users\huynhspm\desktop\game\assign.cpp
+	"public.h"
+	"assign.h"
+
+1547383085 c:\users\huynhspm\desktop\game\assign.h
+	"public.h"
+
+1545808910 source:c:\users\huynhspm\desktop\game\move.cpp
+	<Windows.h>
+	"public.h"
+	"move.h"
+
+1545808660 c:\users\huynhspm\desktop\game\move.h
+	"public.h"
+
+1547384006 source:c:\users\huynhspm\desktop\game\control.cpp
+	<Windows.h>
+	"public.h"
+	"control.h"
+
+1545887941 c:\users\huynhspm\desktop\game\control.h
+	"public.h"
+
+1546006598 c:\users\huynhspm\desktop\game\solve.h
+	"public.h"
+
+1547631456 source:c:\users\huynhspm\desktop\game\levelmonster.cpp
+	<bits/stdc++.h>
+	"public.h"
+	"levelmonster.h"
+
+1547382348 c:\users\huynhspm\desktop\game\levelmonster.h
+	"public.h"
+
+1547342671 source:c:\users\huynhspm\desktop\game\list.cpp
+
+1547441594 c:\users\huynhspm\desktop\game\table.h
+	"public.h"
+
+1548749262 source:c:\users\huynhspm\desktop\game\constant.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	"console.h"
+	"constant.h"
+
+1548749309 source:c:\users\huynhspm\desktop\game\table.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"console.h"
+	"table.h"
+
+1547382998 c:\users\huynhspm\desktop\game\constant.h
+
+1548749209 source:c:\users\huynhspm\desktop\game\show.cpp
+	<stdio.h>
+	"public.h"
+	"console.h"
+	"show.h"
+
+1547383336 c:\users\huynhspm\desktop\game\show.h
+	"public.h"
+
+1547442056 c:\users\huynhspm\desktop\game\endgame.h
+	"public.h"
+
+1548749287 source:c:\users\huynhspm\desktop\game\endgame.cpp
+	<bits/stdc++.h>
+	"console.h"
+	"public.h"
+	"endgame.h"
+
+1550468379 c:\users\huynhspm\desktop\game\assign.hpp
+
+1550368754 c:\users\huynhspm\desktop\game\console.hpp
+	<stdio.h>
+	<conio.h>
+
+1551072785 c:\users\huynhspm\desktop\game\public.hpp
+
+1551072828 c:\users\huynhspm\desktop\game\prepare.hpp
+
+1551072839 c:\users\huynhspm\desktop\game\control.hpp
+	"levelmonster.hpp"
+
+1551072752 c:\users\huynhspm\desktop\game\solve.hpp
+	<bits/stdc++.h>
+	"levelmonster.hpp"
+	"assign.hpp"
+
+1551072728 c:\users\huynhspm\desktop\game\levelmonster.hpp
+	<bits/stdc++.h>
+
+1550313167 c:\users\huynhspm\desktop\game\table.hpp
+	<bits/stdc++.h>
+	<conio.h>
+
+1550062891 c:\users\huynhspm\desktop\game\constant.hpp
+	<stdio.h>
+
+1550400140 c:\users\huynhspm\desktop\game\show.hpp
+	<stdio.h>
+
+1550197683 c:\users\huynhspm\desktop\game\endgame.hpp
+	<bits/stdc++.h>
+
